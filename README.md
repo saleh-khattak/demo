@@ -1,0 +1,1 @@
+Today I start learing PYTHON ,the above code covers various topics ie. Variable and DataTyes, Operators (arithematic,Assignment,Comperision and logical), type Function and Type Casting ,and the last Input Function
